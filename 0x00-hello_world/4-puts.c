@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main - the key fucn 
- *return: func to exit
+ *main- the key fucn 
+ *return: func to exit put 0
  */
 int main(void)
 {
