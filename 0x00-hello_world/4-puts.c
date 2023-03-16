@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>
 /*
- * main th key fucn 
- * return func to exit
+ * main - the key fucn 
+ * return: func to exit
  */
 int main(void)
 {
