@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
- * this a comment for main and return func
+ * main th key fucn 
+ * return func to exit
  */
 int main(void)
 {
-puts("Programming is like building a multilingual puzzle");
-return (0) ;
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
