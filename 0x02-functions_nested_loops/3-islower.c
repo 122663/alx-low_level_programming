@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _islower - Make the condition
+ * @c: charactere to be traited
  * Return: void
  */
 int _islower(int c)
