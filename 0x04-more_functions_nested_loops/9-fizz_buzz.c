@@ -3,7 +3,7 @@
 
 /**
  * main - beginin
- * Return: i and 0
+ * Return: 0 always
  */
 int main(void)
 {
