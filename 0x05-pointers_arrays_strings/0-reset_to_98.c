@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * rest_to_98 - check the code
+ * reset_to_98 - check the code to see whats is
  * @n: caract
  * Return: Always 0.
  */
