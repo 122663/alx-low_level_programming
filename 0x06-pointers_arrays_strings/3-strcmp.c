@@ -36,7 +36,7 @@ continue;
 }
 else
 {
-r = s1[c] - s2[c];	
+r = s1[c] - s2[c];
 break;
 }
 c++;
